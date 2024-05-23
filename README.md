@@ -39,7 +39,6 @@ In this project, the Password Strength Checker, I utilized Python coding languag
 - Version Control System 
 - Command-Line Interface 
 -Password Database
-- Optional: GUI Frameworks
 - Documentation Tools
 - Testing Frameworks
 - Dependency Management 
@@ -50,38 +49,39 @@ In this project, the Password Strength Checker, I utilized Python coding languag
 
 Define the project scope, objectives, and target audience.
 Gather requirements, including desired features and functionalities.
-Setup Development Environment:
+## Setup Development Environment:
 
-## Install Python and necessary development tools (IDE or text editor).
+Install Python and necessary development tools (IDE or text editor).
 Set up a version control system (e.g., Git) for managing project files.
-Data Acquisition:
+## Data Acquisition:
 
-## Obtain a dataset containing common passwords for comparison.
-Algorithm Design:
+Obtain a dataset containing common passwords for comparison.
+## Algorithm Design:
 
-## Design algorithms to assess password strength based on various criteria (length, complexity, etc.).
+Design algorithms to assess password strength based on various criteria (length, complexity, etc.).
 Plan how to compare user-provided passwords with the common password dataset.
-Coding:
+## Coding:
 
-## Write Python code to implement the password strength checking algorithm.
+Write Python code to implement the password strength checking algorithm.
 Develop functions or classes to handle user input, data processing, and output generation.
-Testing:
+## Testing:
 
-## Create test cases to verify the functionality of the Password Strength Checker.
+Create test cases to verify the functionality of the Password Strength Checker.
 Test various scenarios, including valid and invalid inputs, to ensure robustness.
-Integration:
+## Integration:
 
-## Integrate the password checking algorithm with any additional features (e.g., GUI).
-User Interface Design (Optional):
+Integrate the password checking algorithm with any additional features (e.g., GUI).
 
+## Documentation:
 
-## Write documentation explaining how to use the Password Strength Checker.
+Write documentation explaining how to use the Password Strength Checker.
 Include instructions for installation, usage, and any other relevant information.
-Deployment:
+## Deployment:
 
-## Package the project for distribution, considering factors like compatibility and ease of installation.
+Package the project for distribution, considering factors like compatibility and ease of installation.
 Optionally, publish the project on platforms like GitHub for others to access and contribute.
-Maintenance and Updates:
+## Maintenance and Updates:
 
-## Monitor for feedback and potential issues from users.
+Monitor for feedback and potential issues from users.
 Incorporate updates or improvements based on feedback and changes in password security best practices.
+
