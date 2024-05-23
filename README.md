@@ -10,14 +10,21 @@ In this project, the Password Strength Checker, I utilized Python coding languag
 ### Skills Learned
 
 -Python Programming
+
 -Password Strength Assessment
+
 -Data Handling
+
 -Algorithm Design
+
 -Security Awareness
--User Interface Design (Optional)
+
 -Error Handling
+
 -Documentation
+
 -Testing and Debugging
+
 -Version Control
 
 
